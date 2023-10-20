@@ -1,0 +1,12 @@
+.matrix {
+    display: flex;
+    flex-direction: row;
+}
+
+.negyzet {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: yellow;
+}
